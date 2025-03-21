@@ -1,0 +1,26 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "Master's | Full Stack. Back  End Development: Node.js | Creating Console Applications",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LesiaUKR/goit-node-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LesiaUKR/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/LesiaUKR/goit-node-cli#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^13.1.0",
+    "nanoid": "^5.1.5"
+  }
+}
